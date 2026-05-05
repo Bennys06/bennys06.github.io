@@ -1,6 +1,4 @@
---
-layout: default
---
+
 
 # Hi, I'm [Your Name]
 
