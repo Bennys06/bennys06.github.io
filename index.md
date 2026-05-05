@@ -1,6 +1,6 @@
 
 
-# Hi, I'm [Your Name]
+# Hi, I'm Benjamin!
 
 Cybersecurity graduate focused on offensive security and OSCP preparation.
 
@@ -13,10 +13,9 @@ Cybersecurity graduate focused on offensive security and OSCP preparation.
 - [Week 1: Getting Started](oscp/week1.md)
 
 ## 💻 Projects
-- ARP Spoofer (Python + Scapy)
-- Intrusion Detection System
+- WIP
 
 ## 🔗 Links
-- GitHub: https://github.com/yourusername
-- LinkedIn: (add yours)
+- GitHub: https://github.com/Bennys06
+- LinkedIn: https://www.linkedin.com/in/benjamin-ng-76b7b1173/
 
