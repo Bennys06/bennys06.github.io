@@ -1,3 +1,7 @@
+--
+layout: default
+--
+
 # Hi, I'm [Your Name]
 
 Cybersecurity graduate focused on offensive security and OSCP preparation.
@@ -17,3 +21,4 @@ Cybersecurity graduate focused on offensive security and OSCP preparation.
 ## 🔗 Links
 - GitHub: https://github.com/yourusername
 - LinkedIn: (add yours)
+
